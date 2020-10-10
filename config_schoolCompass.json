@@ -169,16 +169,6 @@
           "value": "other"
         }]
 
-    },
-    {
-      "title": "Ваш ник в инстаграмме",
-      "type": "write",
-      "answer": [
-        {
-          "name":"фываыф",
-          "value": "г. Бишкек"
-        }]
-
     }
   ],
   "questions": [
